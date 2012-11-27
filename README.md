@@ -1,4 +1,4 @@
-spud_cms
+Spud CMS
 ========
 
-Content Management System Home has Changed
+This repository has moved to http://github.com/spud-rails/spud_cms
